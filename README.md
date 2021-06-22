@@ -1,7 +1,7 @@
 # NeoVimConfig
 
 
-My configuration of neovim 
+My neovim configuration
 
 Prevously install pug.vim
 
