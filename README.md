@@ -16,4 +16,6 @@ I need to add latex editor, the idea is continue using neovim, the plugin that i
 
 Plug 'lervag/vimtex'
 
+Remember :PlugInstall
+
 <img width="292" alt="image" src="https://user-images.githubusercontent.com/16138308/167305571-c751b81b-5275-4003-bb50-96354af2247a.png">
