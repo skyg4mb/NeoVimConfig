@@ -9,6 +9,7 @@ call plug#begin("~/.vim/plugged")
   let g:coc_global_extensions = ['coc-emmet', 'coc-css', 'coc-html', 'coc-json', 'coc-prettier', 'coc-tsserver']
   Plug 'leafgarland/typescript-vim'
   Plug 'peitalin/vim-jsx-typescript'
+  Plug 'lervag/vimtex'
 call plug#end()
 
 "Config Section
